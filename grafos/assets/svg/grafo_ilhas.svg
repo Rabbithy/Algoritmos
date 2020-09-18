@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg2039"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="grafo_ilhas.svg">
+  <defs
+     id="defs2033">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1420"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="245.07206"
+     inkscape:cy="842.83771"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="741"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2036">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#2f303f;fill-opacity:1;stroke:none;stroke-width:0.8078649;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1391-6"
+       width="201.54538"
+       height="200.77753"
+       x="3.5872207"
+       y="3.4339375"
+       ry="0.058740061"
+       inkscape:export-filename="/home/thiago/Documentos/Algoritmos/Algoritmos/grafos/assets/grafo_ilhas.png"
+       inkscape:export-xdpi="97.259598"
+       inkscape:export-ydpi="97.259598" />
+    <path
+       transform="matrix(2.0020857,0,0,2.0020857,-46.042301,-41.292766)"
+       style="fill:none;stroke:#00fb5c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 106.50691,42.693044 C 83.878403,54.630917 61.249582,66.568955 38.620446,78.50716"
+       id="path1418"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1420"
+       inkscape:original-d="M 106.50691,42.693044 C 83.87835,54.630817 61.24953,66.568856 38.620446,78.50716"
+       inkscape:export-filename="/home/thiago/Documentos/Algoritmos/Algoritmos/grafos/assets/grafo_ilhas.png"
+       inkscape:export-xdpi="97.259598"
+       inkscape:export-ydpi="97.259598" />
+    <path
+       style="fill:none;stroke:#00fb5c;stroke-width:2.00208569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 30.208951,125.2495 106.4602,165.11419"
+       id="path1422"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/thiago/Documentos/Algoritmos/Algoritmos/grafos/assets/grafo_ilhas.png"
+       inkscape:export-xdpi="97.259598"
+       inkscape:export-ydpi="97.259598" />
+    <path
+       style="fill:none;stroke:#00fb5c;stroke-width:2.00208569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 171.2069,48.463142 116.89458,162.9738"
+       id="path1424"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/thiago/Documentos/Algoritmos/Algoritmos/grafos/assets/grafo_ilhas.png"
+       inkscape:export-xdpi="97.259598"
+       inkscape:export-ydpi="97.259598" />
+    <circle
+       style="opacity:0.93000034;fill:none;fill-opacity:1;stroke:#fb0cff;stroke-width:4.00417137;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path1395"
+       cx="172.13551"
+       cy="40.492962"
+       r="7.0944448"
+       inkscape:export-filename="/home/thiago/Documentos/Algoritmos/Algoritmos/grafos/assets/grafo_ilhas.png"
+       inkscape:export-xdpi="97.259598"
+       inkscape:export-ydpi="97.259598" />
+    <circle
+       style="opacity:0.93000034;fill:none;fill-opacity:1;stroke:#fb0cff;stroke-width:4.00417137;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path1395-6"
+       cx="25.091309"
+       cy="119.33587"
+       r="7.0944448"
+       inkscape:export-filename="/home/thiago/Documentos/Algoritmos/Algoritmos/grafos/assets/grafo_ilhas.png"
+       inkscape:export-xdpi="97.259598"
+       inkscape:export-ydpi="97.259598" />
+    <circle
+       style="opacity:0.93000034;fill:none;fill-opacity:1;stroke:#fb0cff;stroke-width:4.00417137;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path1395-0"
+       cx="113.25163"
+       cy="168.14566"
+       r="7.0944448"
+       inkscape:export-filename="/home/thiago/Documentos/Algoritmos/Algoritmos/grafos/assets/grafo_ilhas.png"
+       inkscape:export-xdpi="97.259598"
+       inkscape:export-ydpi="97.259598" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.11832809px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.44808581"
+       x="180.86725"
+       y="29.797386"
+       id="text1443"
+       inkscape:export-filename="/home/thiago/Documentos/Algoritmos/Algoritmos/grafos/assets/grafo_ilhas.png"
+       inkscape:export-xdpi="97.259598"
+       inkscape:export-ydpi="97.259598"><tspan
+         sodipodi:role="line"
+         id="tspan1441"
+         x="180.86725"
+         y="29.797386"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.44808581">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.83012199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.44133094"
+       x="6.4324517"
+       y="111.06975"
+       id="text1447"
+       inkscape:export-filename="/home/thiago/Documentos/Algoritmos/Algoritmos/grafos/assets/grafo_ilhas.png"
+       inkscape:export-xdpi="97.259598"
+       inkscape:export-ydpi="97.259598"><tspan
+         sodipodi:role="line"
+         id="tspan1445"
+         x="6.4324517"
+         y="111.06975"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.44133094">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.8764267px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41897875"
+       x="122.94443"
+       y="183.86961"
+       id="text1451"
+       inkscape:export-filename="/home/thiago/Documentos/Algoritmos/Algoritmos/grafos/assets/grafo_ilhas.png"
+       inkscape:export-xdpi="97.259598"
+       inkscape:export-ydpi="97.259598"><tspan
+         sodipodi:role="line"
+         id="tspan1449"
+         x="122.94443"
+         y="183.86961"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.41897875">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.03795719px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.2587021"
+       x="32.828758"
+       y="115.54791"
+       id="text1455"
+       transform="rotate(-30)"
+       inkscape:export-filename="/home/thiago/Documentos/Algoritmos/Algoritmos/grafos/assets/grafo_ilhas.png"
+       inkscape:export-xdpi="97.259598"
+       inkscape:export-ydpi="97.259598"><tspan
+         sodipodi:role="line"
+         id="tspan1453"
+         x="32.828758"
+         y="115.54791"
+         style="fill:#d2d2d2;fill-opacity:1;stroke-width:0.2587021">5km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.03944206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.28217441"
+       x="-35.788227"
+       y="174.11568"
+       id="text1459"
+       transform="rotate(-60.207999)"
+       inkscape:export-filename="/home/thiago/Documentos/Algoritmos/Algoritmos/grafos/assets/grafo_ilhas.png"
+       inkscape:export-xdpi="97.259598"
+       inkscape:export-ydpi="97.259598"><tspan
+         sodipodi:role="line"
+         id="tspan1457"
+         x="-35.788227"
+         y="174.11568"
+         style="fill:#d2d2d2;fill-opacity:1;stroke-width:0.28217441">3km</tspan><tspan
+         sodipodi:role="line"
+         x="-35.788227"
+         y="189.16498"
+         style="fill:#d2d2d2;fill-opacity:1;stroke-width:0.28217441"
+         id="tspan1461" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.8088913px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.30020836"
+       x="119.92144"
+       y="83.61908"
+       id="text1465"
+       transform="rotate(31.644122)"
+       inkscape:export-filename="/home/thiago/Documentos/Algoritmos/Algoritmos/grafos/assets/grafo_ilhas.png"
+       inkscape:export-xdpi="97.259598"
+       inkscape:export-ydpi="97.259598"><tspan
+         sodipodi:role="line"
+         id="tspan1463"
+         x="119.92144"
+         y="83.61908"
+         style="fill:#d2d2d2;fill-opacity:1;stroke-width:0.30020836">4km</tspan><tspan
+         sodipodi:role="line"
+         x="119.92144"
+         y="99.630196"
+         style="fill:#d2d2d2;fill-opacity:1;stroke-width:0.30020836"
+         id="tspan1467" /></text>
+  </g>
+</svg>

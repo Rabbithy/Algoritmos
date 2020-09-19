@@ -28,7 +28,7 @@ As conexões entre os vertices de um grafo podem sofrer algumas alteções a dep
     <p style="font-size: 12px;">Figuras 5 e 6<p>
     </p>
 
-# Representações:
+# Representação na memória:
 Quando se busca resolver problemas com grafos usando programação, é necessário armazenar as informações do grafo na memoria. Existem varios modos e tecnicas para fazer isso. Abaixo temos alguns desses modos:
 
 - ## Lista de adjacencia:

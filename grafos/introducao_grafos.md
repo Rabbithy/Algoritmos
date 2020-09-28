@@ -43,6 +43,8 @@ Quando se busca resolver problemas com grafos usando programação, é necessár
     ```
 
 - ## Matriz de adjacencia:
+    <img src="assets/svg/grafo_rio_matriz.svg">
+    
     ``` python
     """
     0 -> 1

@@ -2,7 +2,6 @@
 # O que são grafos?
 Grafos são estruturas simples usadas para representar algum tipo de relação entre objetos.
 Usando essas estruturas, é possível representar mapas, arvores de decisão, caminhos entre pontos etc.
-
 Nas imagens abaixo vemos um grafo onde cada vertice (numerado de forma arbitraria) representa uma esquina, e cada conexão representa uma rua.
 <p>
     <img src="assets/mapa_cidade.png" width="330px">
@@ -29,22 +28,20 @@ As conexões entre os vertices de um grafo podem sofrer algumas alteções a dep
     </p>
 
 # Representação na memória:
-Quando se busca resolver problemas com grafos usando programação, é necessário armazenar as informações do grafo na memoria. Existem varios modos e tecnicas para fazer isso. Abaixo temos alguns desses modos:
-
-- ## Lista de adjacencia:
-    ``` python
-    """
-    0 -> 1
-    0 -> 2
-    1 -> 3
-    2 -> 3
-    """
-    lista = [[1, 2], [3], [3], []]
-    ```
-
+Quando se busca resolver problemas com grafos usando programação, é necessário armazenar as informações do grafo na memoria. A representação de grafos pode ser feita de varios modos. Podemos ver alguns desses modos logo abaixo:
 - ## Matriz de adjacencia:
-    <img src="assets/svg/grafo_rio_matriz.svg">
-    
+    <p>
+    A matriz de adjacencia consiste em uma matriz quadrada de ordem N (sendo N, a quantidade de vertices no grafo), onde um valor localizado na linha X e coluna Y representa a existencia ou não de uma relação entre o vertice X e o vertice Y. Esta é a estrutura base da matriz de adjacencia, mas algumas variações podem ser necessárias de acordo com cada algoritmo/problema.
+    </p>
+    <p>Na imagem abaixo temos uma matriz de adjacencia representando um grafo direcionado (digrafo):</p>
+    <img src="assets/svg/grafo_rio_matriz.svg" width="100%">
+- ## Lista de adjacencia:
+    <p></p>
+
+# Código
+## Python:
+- ## Matriz de adjacencia:
+
     ``` python
     """
     0 -> 1
@@ -58,4 +55,14 @@ Quando se busca resolver problemas com grafos usando programação, é necessár
         [0, 0, 0, 1],
         [0, 0, 0, 0]
     ]
+    ```
+- ## Lista de adjacencia:
+    ``` python
+    """
+    0 -> 1
+    0 -> 2
+    1 -> 3
+    2 -> 3
+    """
+    lista = [[1, 2], [3], [3], []]
     ```

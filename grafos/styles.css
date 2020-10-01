@@ -1,0 +1,14 @@
+.simple-button {
+    border: 2px solid #0054c2;
+    border-radius: 6px;
+    background-color: #006eff;
+    padding: 14px;
+    font-size: 24px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.simple-button:hover {
+    border: 2px solid #0054c2;
+    background-color: #0046a1;
+}

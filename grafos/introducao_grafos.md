@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css">
+
 # Introdução aos grafos.
 # O que são grafos?
 Grafos são estruturas simples usadas para representar algum tipo de relação entre objetos.
@@ -39,30 +41,45 @@ Quando se busca resolver problemas com grafos usando programação, é necessár
     <p></p>
 
 # Código
-## Python:
+
+
 - ## Matriz de adjacencia:
 
     ``` python
-    """
-    0 -> 1
-    0 -> 2
-    1 -> 3
-    2 -> 3
-    """
+    # Matriz quadrada de ordem N
+
     matriz = [
-        [0, 1, 1, 0],
-        [0, 0, 0, 1],
-        [0, 0, 0, 1],
+        [0, 0, 0, 0],
+        [0, 0, 0, 0],
+        [0, 0, 0, 0],
         [0, 0, 0, 0]
     ]
+
+    # Definindo relações entre os vertices
+
+    matriz[0][1] = 1    # 0 -> 1
+    matriz[0][2] = 1    # 0 -> 2
+    matriz[1][3] = 1    # 1 -> 3
+    matriz[2][3] = 1    # 2 -> 3
+
     ```
 - ## Lista de adjacencia:
     ``` python
-    """
-    0 -> 1
-    0 -> 2
-    1 -> 3
-    2 -> 3
-    """
-    lista = [[1, 2], [3], [3], []]
+    # Lista de adjacencia composta por outras N listas
+    
+    lista = [[], [], [], []]
+
+    # Defininfo relações entre os vertices
+
+    lista[0].append(1)
+    lista[0].append(2)
+    lista[1].append(3)
+    lista[2].append(3)
     ```
+
+# Continuação
+
+<div><p>Na proxima página veremos a explicação de alguns algoritmos básicos para começar a criar seus códigos com grafos.</p></div>
+<div style="margin-top: 10px;">
+    <a class="simple-button" href="menor_caminho.md">Próxima página</a>
+</div>
